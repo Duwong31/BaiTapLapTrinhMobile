@@ -13,12 +13,3 @@
 -- Trong tương lai gần lập trình di động vẫn có thể phát triển hơn nữa vì nhu cầu sử dụng điện thoại thông minh của con người đang rất cao, công nghệ tiếp tục đổi mới nên lập trình di động tương lai sẽ là một trong những ngành nghề được săn đón nhất.
 
 -> Câu 3:
-
-
-
-=======
-
--- Trong tương lai gần lập trình di động vẫn có thể phát triển hơn nữa vì nhu cầu sử dụng điện thoại thông minh của con người đang rất cao, công nghệ tiếp tục đổi mới nên lập trình di động tương lai sẽ là một trong những ngành nghề được săn đón nhất.
-
--> Câu 3:
->>>>>>> 72ea9a5d439772ae4cb682d7dd20ee0c353564b2
