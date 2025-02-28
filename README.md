@@ -1,16 +1,14 @@
-# flutter_tuan_1
+# bai_tap_tuan_1
 
-A new Flutter project.
+-> Câu 1: 
 
-## Getting Started
+-- Hiểu rõ hơn về phát triển ứng dụng trên nền tảng Android và CS.
+-- Nắm vững kiến thức lập trình.
+-- Tạo ra một ứng dụng có thể sử dụng.
+-- Hướng đến tương lai tham gia phát triển ứng dụng cho các công ty công nghệ, công ty startup
 
-This project is a starting point for a Flutter application.
+-> Câu 2:
 
-A few resources to get you started if this is your first Flutter project:
+-- Trong tương lai gần lập trình di động vẫn có thể phát triển hơn nữa vì nhu cầu sử dụng điện thoại thông minh của con người đang rất cao, công nghệ tiếp tục đổi mới nên lập trình di động tương lai sẽ là một trong những ngành nghề được săn đón nhất.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-> Câu 3:
