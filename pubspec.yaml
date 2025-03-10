@@ -41,6 +41,8 @@ dependencies:
 
   community_material_icon: ^5.4.55
 
+  provider: ^6.1.2
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
